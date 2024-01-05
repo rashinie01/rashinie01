@@ -1,4 +1,4 @@
-![Modern room](https://github.com/rashinie01/rashinie01./assets/155546614/ef5071eb-8071-4d4f-bb53-7c79a951f2b4)
+![Uploading Modern room.png…]()
 
 <h3 align="center">Hi 👋, I'm Rashini Weerawardane</h3>
 <h4 align="center">A passionate frontend developer from Sri Lanka</h4>
